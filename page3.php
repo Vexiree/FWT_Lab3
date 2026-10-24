@@ -1,5 +1,6 @@
 <?php
 $title = 'Иванов Матвей 251-362, ThreeSalads - О нас';
+date_default_timezone_set('Europe/Moscow');
 ?>
 <!DOCTYPE html>
 <html lang="ru">
