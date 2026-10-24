@@ -1,5 +1,5 @@
 <?php
-$title = 'Иванов Матвей 251-362, ThreeSalads - О нас';
+$title = 'Иванов Матвей 251-362, Лабораторная работа №3, ThreeSalads - О нас';
 date_default_timezone_set('Europe/Moscow');
 ?>
 <!DOCTYPE html>
